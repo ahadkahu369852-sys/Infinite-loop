@@ -1,0 +1,215 @@
+* {
+    margin: 0;
+    font-family: arial;
+    border: border-box;
+}
+
+.img{
+    height: 600px;
+    width: 1400px;
+    background-image: url(https://images.unsplash.com/photo-1664609106915-27a29613ede1?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=347);
+   
+    background-size: cover;
+    color: azure;
+    display:flex;
+    justify-content: space-evenly;
+    text-wrap: wrap;
+
+    
+    
+}
+.loop{
+    height: 300px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 200px;
+   
+    margin-right: 500px;
+}
+
+.button{
+    background-color: cornflowerblue;
+    align-content: flex-end;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.What{
+    margin-left: 20px;
+    color: royalblue;
+
+}
+.color{
+    color: black;
+}
+.market{
+    color: royalblue ;
+    margin-left: 20px;
+   display: flex;
+   
+    
+   
+}
+.height{
+    color: black;
+    height: 100px;
+    
+    width: 400px;
+}
+.left{
+    color: black;
+    height: 100px;
+   margin-left: 300px;
+    width: 400px;
+
+}
+button{
+    background-color: cornflowerblue;
+    color: white;
+}
+.security{
+    height: 100px;
+    width: 400px;
+    color: black;
+    margin-left: 20px;
+}
+
+.analsyis{
+margin-left: 20px;
+color: royalblue;
+}
+.nav{
+    display: flex;
+   
+}
+.fast{
+    margin-left: 517px;
+    color: royalblue;
+}
+.img-bri{
+    background-size: cover;
+    height: 600px;
+    align-items: flex-start;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+.top{
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+
+    
+    
+}
+
+
+
+.para{
+    color: white;
+   margin-top: 10px;
+   text-align: center;
+  
+}
+.para2{
+    color: white;
+
+   text-align: center;
+}
+
+.div1{
+    height: 70px;
+    width: 70px;
+    background-size: cover;
+}
+.div2{
+    height: 70px;
+    width: 70px;
+   background-size: contain;
+   background-color: darkslategrey;
+}
+.div3{
+    height: 70px;
+    width: 70px;
+   background-size: cover;
+}
+.bara{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+.top2{
+    color: rgba(0, 128, 117, 0.479);
+    margin-top: 30px;
+    text-align: center;
+
+    
+    
+}
+
+
+
+.para3{
+    color: black;
+   margin-top: 10px;
+   text-align: center;
+  
+}
+.books{
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+.book1{
+    height: 200px;
+    width: 150px;
+    background-color: aqua;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    
+}
+.book2{
+    height: 200px;
+    width: 150px;
+    background-color: rgb(0, 255, 64);
+    justify-content: space-evenly;
+    display: flex;
+    background-size: cover;
+    
+}
+
+.book3{
+    height: 200px;
+    width: 150px;
+    background-color: rgb(98, 0, 255);
+    justify-content: space-evenly;
+    display: flex;
+    background-size: cover;
+    
+}
+
+.book4{
+    height: 200px;
+    width: 150px;
+    background-color: rgb(255, 208, 0);
+    justify-content: space-evenly;
+    display: flex;
+    background-size: cover;
+    
+}
+.book5{
+    height: 200px;
+    width: 150px;
+    background-color: rgb(0, 17, 255);
+    justify-content: space-evenly;
+    display: flex;
+    background-size: cover;
+    
+}
